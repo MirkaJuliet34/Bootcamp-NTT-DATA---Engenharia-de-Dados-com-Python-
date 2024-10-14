@@ -3,7 +3,7 @@
 Bem-vindo(a) ao repositório do **Bootcamp de Engenharia de Dados**! 🎓 Este bootcamp abrange tópicos essenciais para o desenvolvimento de habilidades em programação com Python e ferramentas para visualização e análise de dados com Power BI.
 
 <p align="center">
-  <img src="caminho/para/sua/imagem/banner.png" alt="Bootcamp Banner" width="600"/>
+  <img src="img/certificado.jpg" alt="Bootcamp Banner" width="600"/>
 </p>
 
 ---
