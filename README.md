@@ -16,7 +16,7 @@ Bem-vindo(a) ao repositório do **Bootcamp de Engenharia de Dados**! 🎓 Este b
    - Boas práticas em projetos colaborativos de ciência de dados.
 
    <p align="center">
-      <img src="caminho/para/sua/imagem/python-ambiente.png" alt="Ambiente Python" width="500"/>
+      <img src="img/fig-1.png" alt="Ambiente Python" width="500"/>
    </p>
 
 ### 2. 📝 Sintaxe Básica com Python
@@ -25,7 +25,7 @@ Bem-vindo(a) ao repositório do **Bootcamp de Engenharia de Dados**! 🎓 Este b
    - Introdução à **modularização de código**.
 
    <p align="center">
-      <img src="caminho/para/sua/imagem/sintaxe-python.png" alt="Sintaxe Python" width="500"/>
+      <img src="img/fig-2.png" alt="Sintaxe Python" width="500"/>
    </p>
 
 ### 3. 📦 Trabalhando com Coleções em Python
@@ -48,7 +48,7 @@ Bem-vindo(a) ao repositório do **Bootcamp de Engenharia de Dados**! 🎓 Este b
    - Uso de **Power Query** para transformação de dados.
 
    <p align="center">
-      <img src="caminho/para/sua/imagem/power-bi-intro.png" alt="Power BI Intro" width="500"/>
+      <img src="img/fig-3.png" alt="Power BI Intro" width="500"/>
    </p>
 
 ### 6. 📈 Visualização de Dados e Relatórios com Power BI
@@ -73,7 +73,7 @@ Bem-vindo(a) ao repositório do **Bootcamp de Engenharia de Dados**! 🎓 Este b
    - Criação de **dashboards interativos** e publicação no **Power BI Service**.
 
    <p align="center">
-      <img src="caminho/para/sua/imagem/storytelling.png" alt="Data Storytelling" width="500"/>
+      <img src="img/fig-4.png" alt="Data Storytelling" width="500"/>
    </p>
 
 ---
